@@ -4,7 +4,7 @@ All my personal dotfiles stored in one place
 
 ### First of all clone
 ```zsh
-git clone https://github.com/rogern01/dotfiles.git ~/dotfiles
+git clone https://github.com/nieroger/dotfiles.git ~/dotfiles
 ```
 
 ### Papirus Icon Theme
